@@ -1,0 +1,10 @@
+.footer-container {
+  height: 15vh;
+  text-align: center;
+  align-items: center;
+  background-color: #64748b;
+  margin-top: 2vh;
+  width: 80%;
+  color: #475569;
+  padding-top: 6px;
+}
